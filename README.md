@@ -45,7 +45,7 @@
 
 #### 预训练模型
 
-请戳[链接](https://pan.baidu.com/share/init?surl=7wgDUGFLDw7lQkr0M-Ob6g)下载params文件放到`params`文件夹下，提取码`4qsa `。
+请戳[链接](https://pan.baidu.com/s/18Fa9VBCXehMOL4Rg_H6e6A)下载params文件放到`params`文件夹下，提取码`l9x5 `。
 
 ### 训练
 
